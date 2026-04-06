@@ -12,13 +12,13 @@
 
 Indonesia is not Southeast Asia's highest per-capita CO₂ emitter — but it is the region's **largest absolute driver of emissions** due to scale, rapid economic growth, and deep coal dependency. This analysis uses SQL to quantify that claim: how fast are emissions growing, what's driving them, and how does Indonesia compare to its neighbours?
 
-This analysis extends the findings of my [Southeast Asia CO₂ presentation](https://github.com/YOUR-USERNAME/southeast-asia-co2-analysis) using SQL instead of Power BI.
+This analysis extends the findings of my [Southeast Asia CO₂ presentation](https://github.com/chimkeninasal/southeast-asia-co2-analysis) using SQL instead of Power BI.
 
 
 
 ## Dataset
 
-**Source:** Our World in Data — CO₂ and Greenhouse Gas Emissions  
+**Source:** Our World in Data CO₂ and Greenhouse Gas Emissions  
 **Rows:** 50,191 (filtered to country-level data; aggregated regions excluded)  
 **Key columns:** `Country`, `year`, `co2`, `coal_co2`, `oil_co2`, `gas_co2`, `cement_co2`, `flaring_co2`, `co2_per_capita`, `co2_growth_prct`, `share_global_co2`, `population`, `gdp`  
 **Coverage:** 255 countries and regions, 1750–2023
