@@ -39,4 +39,4 @@ Most SQL portfolios use pre-built toy datasets. These two use **real data I alre
 **Ina Louise Magno** — Data Analyst | Chemical Engineering graduate (UPLB)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ina-louise-magno)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chimkeninasal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyenalouise)
